@@ -1,5 +1,5 @@
 ﻿
-## Tags
+## Issue Tags
 
 ### Refinement status
 
@@ -38,4 +38,21 @@ See page about [estimating effort](estimates.md) for more information.
 - Effort multiplier factor: Not applicable
 - Effort multiplier factor: Not estimated
 - Effort multiplier factor: Unknown
+
+
+## PR Tags
+
+### Change Type
+
+NOTE: This might be used for determining the version bump type that results 
+from merging this change (e.g., patch, minor, major).
+
+- Change type: Bug fix
+- Change type: Feature
+- Change type: Refactor
+- Change type: Documentation
+- Change type: Test
+- Change type: Other
+- Change type: Not applicable
+- Change type: Breaking change
 
