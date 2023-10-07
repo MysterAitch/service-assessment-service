@@ -116,12 +116,19 @@ coordination and time required.
 Areas which will make work more complex/slow work down:
 
 - People
+  - Knowledge, skills, experience, etc.
 - Process
+  - Dependencies, approvals, etc.
 - Technology
-- Other
+  - New/unfamiliar technology, etc.
 - Scope
+  - Size, complexity, etc.
 - Unknowns
+  - Risks, assumptions, etc.
 - Communication
+  - Coordination, etc.
+- Other
+  - Other areas of concern
 
 
 Suggestion of template to record note about impediments:
