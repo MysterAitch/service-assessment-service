@@ -110,3 +110,26 @@ coordination and time required.
 - Multiple internal implementers
 
 
+
+## Anticipated Impediments
+
+Areas which will make work more complex/slow work down:
+
+- People
+- Process
+- Technology
+- Other
+- Scope
+- Unknowns
+- Communication
+
+
+Suggestion of template to record note about impediments:
+
+- [ ] **Impediment:** [Description of impediment]
+    - **Mitigation:** [Description of mitigation]
+    - **Rationale:** [Description of rationale]
+    - **Impact:** [Description of impact]
+    - **Status:** [Description of status]
+    - **Notes:** [Description of notes]
+
