@@ -1,5 +1,4 @@
-﻿
-## Weekly
+﻿## Weekly
 
 - Week notes
 
